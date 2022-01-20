@@ -1,7 +1,9 @@
 # IngerenciaJavaTest
 # Descripcion del ejercicio
 La aplicación es un cliente REST que apunta a una API pública.
+
 ![image](https://user-images.githubusercontent.com/65741905/150238204-eda06078-12cc-4727-ad08-25a382996620.png)
+
 Componente Backend
 
 La aplicación Backend debe conectarse a esta API que muestra recientemente artículos publicados sobre Java en Hacker News:
